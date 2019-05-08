@@ -14,7 +14,7 @@ parcel build index.html
 or
 npm run build
 ```
-To host on Netlify, choose:
+To host this parcel project on a static site generator (like Netlify), choose:
 ```
 Build command: npm run build
 Publish directory: dist
