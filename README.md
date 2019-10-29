@@ -1,16 +1,16 @@
 # parcel-starter
-A default file structure for static websites built with HTML, CSS, JS, and Parcel. 
+A starting file structure for static websites built with HTML, CSS, JS, and Parcel. 
 
 ## Usage
 To start a development server and preview the site, run:
 ```
-parcel index.html
+parcel src/index.html
 or 
 npm run dev
 ```
 To build for production and create the `dist` folder, run: 
 ```
-parcel build index.html
+parcel build src/index.html
 or
 npm run build
 ```
